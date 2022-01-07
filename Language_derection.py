@@ -9,10 +9,10 @@ all_language_code ={
 }
 
 input_sentences =[
-    "كارينا مواردة ، واجب امتحان الفصل الدراسي النهائي لنظام دعم القرار",
-    "Карина Маварда, Задание на заключительном семестре по системе поддержки принятия решений",
-    "Karina Mawardah, Decision Support System Semester Final Exam assignment",
-    "Karina Mawardah, Tarea del examen final del semestre del sistema de apoyo a la toma de decisiones"
+    "محمد بوترا نور اسماعيل ، واجب امتحان الفصل الدراسي النهائي لنظام دعم القرار",
+    "Мухаммад Путра Нур Исмаил, Задание на заключительном семестре по системе поддержки принятия решений",
+    "Muhamad Putra Nur Ismail, Decision Support System Semester Final Exam assignment",
+    "Muhamad Putra Nur Ismail, Tarea del examen final del semestre del sistema de apoyo a la toma de decisiones"
     
 ]
 lemmatizer_names = ['language Code','Input Sentence']
